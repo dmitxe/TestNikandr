@@ -1,0 +1,9 @@
+/vendor/
+/nbproject/
+/web/bundles/
+app/config/parameters.ini
+app/cache/*
+app/logs/*
+app/mailspool/*
+!*.gitkeep
+!*.gitignore
